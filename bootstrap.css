@@ -604,6 +604,16 @@ pre code {
   width: 100%;
 }
 
+.bio{
+    text-align: right;
+}
+
+@media (max-width: 768px){
+    .bio{
+    text-align: center;
+    }
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
