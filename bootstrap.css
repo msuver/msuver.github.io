@@ -88,12 +88,13 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
+  padding-bottom: 200px;  
   font-family: 'Open Sans', sans-serif;
   font-size: 1.125rem;
   font-weight: normal;
   line-height: 1.5;
-  color: #212529;
-  background-color: #fff;
+  color: #fff;
+  background-color: #000;
 }
 
 [tabindex="-1"]:focus {
