@@ -611,7 +611,10 @@ pre code {
 
 @media (max-width: 768px){
     .bio{
-    text-align: center;
+        text-align: center;
+    }
+    h2.responsive {
+    font-size: 24px;
     }
 }
 
@@ -631,6 +634,7 @@ pre code {
   .container {
     max-width: 960px;
   }
+    h2
 }
 
 @media (min-width: 1200px) {
